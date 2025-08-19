@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Node.js, Python, Java**
 
-- 🔭 I’m currently working on [HousPriceEstimator](https://github.com/im23-pilzm/HousePricePredicitor.git)
+- 🔭 I’m currently working on [OutfitToday](https://github.com/im23-pilzm/outfit-today)
 
 - 📫 How to reach me **maxpilz2212@gmail.com**
 
