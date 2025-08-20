@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [MemoNotes](https://github.com/im23-pilzm/memoNotes.git)
 
-- 🌱 I’m currently learning **React, Next.js, Node.js, Python, Java**
-
 - 🔭 I’m currently working on [OutfitToday](https://github.com/im23-pilzm/outfit-today)
+
+- 🌱 I’m currently learning **React, Next.js, Node.js, Python, Java**
 
 - 📫 How to reach me **maxpilz2212@gmail.com**
 
